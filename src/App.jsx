@@ -1,13 +1,13 @@
 //global css
-import "./App.css";
+import './App.css';
 //routing
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-//bootstrap
-import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
-import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
-import "bootstrap-icons/font/bootstrap-icons.css";
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+//bootstrap import
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import '../node_modules/bootstrap/dist/js/bootstrap.bundle';
+import 'bootstrap-icons/font/bootstrap-icons.css';
 //pages
-import Registration from "./pages/Registration";
+import Registration from './pages/Registration';
 
 function App() {
   return (
